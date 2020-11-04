@@ -1,3 +1,7 @@
 talavera
 hola
+<<<<<<< HEAD
 user2
+=======
+user1
+>>>>>>> origin/master
